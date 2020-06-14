@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: USER
+Build-Jdk: 13
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.task4
+Main-Class: ${start-class}
+

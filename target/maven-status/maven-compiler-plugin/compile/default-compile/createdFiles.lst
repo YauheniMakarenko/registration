@@ -1,0 +1,12 @@
+com\task4\controller\RegistrationController.class
+com\task4\service\CustomLoginSuccessHandler.class
+com\task4\service\UserService.class
+com\task4\repository\RoleRepository.class
+com\task4\repository\UserRepository.class
+com\task4\entity\Role.class
+com\task4\config\WebSecurityConfig.class
+com\task4\Application.class
+com\task4\entity\User.class
+com\task4\service\CustomLogoutSuccessHandler.class
+com\task4\config\MvcConfig.class
+com\task4\controller\AdminController.class

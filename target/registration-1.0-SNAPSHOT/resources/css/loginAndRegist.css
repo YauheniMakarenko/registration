@@ -1,0 +1,57 @@
+.modal {
+    padding: 50px;
+    background: #ccc;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 0.25rem;
+}
+
+body {
+    background: #454d55 url(images/seryy_fon_tochki_72424_300x168.jpg);
+    color: black;
+}
+
+input {
+    width: 308px;
+    height: 46px;
+    background: #dad7c5 no-repeat;
+    padding: 0 10px;
+    border: none;
+    font-size: 1em;
+    line-height: 46px;
+}
+
+h2 {
+    color: #040505;
+    font-size: 150%;
+    display: block;
+    text-align: center;
+}
+
+.error_message {
+    font-size: 15px;
+    text-align: center;
+    color: red;
+}
+
+.button{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    line-height: 2.5em;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #777;
+    font-size: 150%;
+    color: black;
+    outline: none;
+    border: 2px solid darkslateblue;
+    border-radius: 5px;
+    box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em cornflowerblue;
+    background: linear-gradient(blue, deepskyblue, cornflowerblue, blue);
+}

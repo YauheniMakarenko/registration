@@ -1,0 +1,12 @@
+D:\Itransition\registration\src\main\java\com\task4\service\CustomLoginSuccessHandler.java
+D:\Itransition\registration\src\main\java\com\task4\Application.java
+D:\Itransition\registration\src\main\java\com\task4\controller\AdminController.java
+D:\Itransition\registration\src\main\java\com\task4\entity\User.java
+D:\Itransition\registration\src\main\java\com\task4\controller\RegistrationController.java
+D:\Itransition\registration\src\main\java\com\task4\entity\Role.java
+D:\Itransition\registration\src\main\java\com\task4\config\MvcConfig.java
+D:\Itransition\registration\src\main\java\com\task4\service\CustomLogoutSuccessHandler.java
+D:\Itransition\registration\src\main\java\com\task4\config\WebSecurityConfig.java
+D:\Itransition\registration\src\main\java\com\task4\repository\UserRepository.java
+D:\Itransition\registration\src\main\java\com\task4\repository\RoleRepository.java
+D:\Itransition\registration\src\main\java\com\task4\service\UserService.java
